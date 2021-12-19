@@ -43,7 +43,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     });
     */
 
-    let f = File::open("hello.txt")?;
+    let _f = File::open("hello.txt")?;
 
     Ok(())
 }
