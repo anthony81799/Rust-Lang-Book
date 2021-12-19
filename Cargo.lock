@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-<<<<<<< HEAD
 name = "generics"
-=======
-name = "errors"
->>>>>>> Rust-Lang-Book/Errors
 version = "0.1.0"

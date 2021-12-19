@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Can use generics with struct and enums
 // Can have more than ine generic type
 struct Point<T, U> {
