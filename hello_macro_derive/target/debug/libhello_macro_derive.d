@@ -1,0 +1,1 @@
+/mnt/d/ProgramsAndFiles/CodingCS/randomCodingProjects/Rust/Rust_Lang_Book/hello_macro/hello_macro_derive/target/debug/libhello_macro_derive.so: /mnt/d/ProgramsAndFiles/CodingCS/randomCodingProjects/Rust/Rust_Lang_Book/hello_macro/hello_macro_derive/src/lib.rs
